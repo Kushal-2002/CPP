@@ -1,0 +1,1 @@
+{"name":"Local: ABbalance","url":"c:\\Users\\User\\Desktop\\c++ complete course\\ABbalance.cpp","tests":[{"id":1641392865021,"input":"4\nb\naabbbabaa\nabbb\nabbaab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\ABbalance.cpp","group":"local","local":true}

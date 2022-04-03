@@ -1,0 +1,1 @@
+{"name":"Local: EF1","url":"c:\\Users\\User\\Desktop\\c++ complete course\\EF1.cpp","tests":[{"id":1640616304790,"input":"4\n6 1 5\n2 5 2\n2 4 2\n5 5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\EF1.cpp","group":"local","local":true}

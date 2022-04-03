@@ -1,0 +1,1 @@
+{"name":"Local: EqualOrNotEqual","url":"c:\\Users\\User\\Desktop\\c++ complete course\\EqualOrNotEqual.cpp","tests":[{"id":1639843462796,"input":"4\nEEE\nEN\nENNEENE\nNENN","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\EqualOrNotEqual.cpp","group":"local","local":true}

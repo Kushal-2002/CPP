@@ -1,0 +1,1 @@
+{"name":"Local: MissingNumbers","url":"c:\\Users\\User\\Desktop\\c++ complete course\\MissingNumbers.cpp","tests":[{"id":1648225332324,"input":"4\n-1 72 0 17\n1 4 5 6\n2 4 6 8\n-1 1 0 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\MissingNumbers.cpp","group":"local","local":true}

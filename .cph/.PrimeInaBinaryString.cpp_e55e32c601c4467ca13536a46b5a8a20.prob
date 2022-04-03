@@ -1,0 +1,1 @@
+{"name":"Local: PrimeInaBinaryString","url":"c:\\Users\\User\\Desktop\\c++ complete course\\PrimeInaBinaryString.cpp","tests":[{"id":1641569324483,"input":"3\n1\n111\n101101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\PrimeInaBinaryString.cpp","group":"local","local":true}

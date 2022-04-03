@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "ios": "cpp",
+        "cstdlib": "cpp",
+        "istream": "cpp",
+        "xutility": "cpp",
+        "exception": "cpp",
+        "memory": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}

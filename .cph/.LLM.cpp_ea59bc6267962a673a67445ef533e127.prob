@@ -1,0 +1,1 @@
+{"name":"Local: LLM","url":"c:\\Users\\User\\Desktop\\c++ complete course\\LLM.cpp","tests":[{"id":1636781841928,"input":"4\nlmnop\nadslkfjas\nbafhaef\nofrhase","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\LLM.cpp","group":"local","local":true}

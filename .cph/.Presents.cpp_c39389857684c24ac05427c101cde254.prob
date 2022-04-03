@@ -1,0 +1,1 @@
+{"name":"Local: Presents","url":"c:\\Users\\User\\Desktop\\c++ complete course\\Presents.cpp","tests":[{"id":1639985305329,"input":"4\n2 3 4 1","output":"4 1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\Presents.cpp","group":"local","local":true}

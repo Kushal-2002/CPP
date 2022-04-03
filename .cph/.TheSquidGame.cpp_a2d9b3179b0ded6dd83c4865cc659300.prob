@@ -1,0 +1,1 @@
+{"name":"Local: TheSquidGame","url":"c:\\Users\\User\\Desktop\\c++ complete course\\TheSquidGame.cpp","tests":[{"id":1640186071129,"input":"3\n3\n3 1 2\n5\n1 1 1 1 1\n6\n3 6 4 2 5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\TheSquidGame.cpp","group":"local","local":true}

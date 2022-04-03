@@ -1,0 +1,1 @@
+{"name":"Local: ShortSubstrings","url":"c:\\Users\\User\\Desktop\\c++ complete course\\ShortSubstrings.cpp","tests":[{"id":1640259291838,"input":"4\nabbaac\nac\nbccddaaf\nzzzzzzzzzz\nzzzzzzzzz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\ShortSubstrings.cpp","group":"local","local":true}

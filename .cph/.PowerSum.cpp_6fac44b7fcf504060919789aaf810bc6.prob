@@ -1,0 +1,1 @@
+{"name":"Local: PowerSum","url":"c:\\Users\\User\\Desktop\\c++ complete course\\PowerSum.cpp","tests":[{"id":1642244833973,"input":"2\n4\n4 8 4 32\n3\n2 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++ complete course\\PowerSum.cpp","group":"local","local":true}
